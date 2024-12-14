@@ -1,0 +1,59 @@
+.name{
+    text-align: center;
+    font-size: 35px;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+}
+.abzac1{
+    text-align: center;
+    font-size: 100px;
+    border-radius: 100px;
+    color: white;
+    background-color: white;
+}
+
+
+.nazvaniy{
+    background-color: blueviolet;
+    font-size: 25px;{}
+    color: ;
+}
+
+
+.stroka{
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    font-size: 32px;
+}
+.rel{
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+
+.tablisa{
+    width: 1000px;
+    height: 100px;
+    background-color: grey;
+    color: white
+    text-a
+    
+
+}
+.nazvaniy{
+    background-color: aqua;
+}
+.head{
+    background-color: aqua;
+}
+.tablisa{
+    width: 1000px;
+    height: 200px;
+    color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid grey;
+}
